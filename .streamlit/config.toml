@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#176B78"
+backgroundColor = "#F7FBF8"
+secondaryBackgroundColor = "#EAF4F2"
+textColor = "#294552"
+borderColor = "#C4DADA"
+font = "DM Sans:https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Cormorant Garamond:https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&display=swap"
+baseFontSize = 16
+baseFontWeight = 500
+headingFontSizes = ["40px", "32px", "25px", "20px", "17px", "15px"]
+headingFontWeights = [700, 700, 700, 600, 600, 600]
+baseRadius = "10px"
+buttonRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#E6F4F1"
+secondaryBackgroundColor = "#D8ECE9"
+textColor = "#173B4A"
+borderColor = "#C4DADA"
